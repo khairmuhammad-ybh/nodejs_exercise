@@ -8,7 +8,7 @@ Basic NodeJS exercises for Zero programming experience
 - Navigate to `src/modules/exercise1` folder, you will find two (2) .js files
   - arithmetic.js
   - datatype.js
-- Read the instruction and please completed the exercises
+- Read the instruction and please complete the exercises
 
 ## NOTE
 
