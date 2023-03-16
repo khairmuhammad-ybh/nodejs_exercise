@@ -1,4 +1,4 @@
-const arithmeticFunc = require("../modules/arithmetic");
+const arithmeticFunc = require("../modules/exercise1/arithmetic");
 
 describe("arithmeticFunc", () => {
   it("adds 1 + 2 to equal 3", () => {

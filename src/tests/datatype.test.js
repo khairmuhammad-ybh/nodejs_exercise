@@ -1,4 +1,4 @@
-const datatypeFunc = require("../modules/datatype");
+const datatypeFunc = require("../modules/exercise1/datatype");
 
 describe("datatypeFunc", () => {
   it("expect a boolean", () => {
